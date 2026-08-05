@@ -1,0 +1,11 @@
+build-win32/
+*.log
+*.pdb
+*.lib
+*.exp
+*.ilk
+*.obj
+*.tlog
+*.recipe
+*.lastbuildstate
+.vs/

@@ -1,0 +1,27 @@
+1 VERSIONINFO
+FILEVERSION 0,1,0,0
+PRODUCTVERSION 0,1,0,0
+FILEOS 0x4
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904b0"
+	{
+		VALUE "Comments", ""
+		VALUE "CompanyName", ""
+		VALUE "FileDescription", "wkSetResCustom"
+		VALUE "FileVersion", "0.1.0.0"
+		VALUE "InternalName", "wkSetResCustom v0.1.0"
+		VALUE "LegalCopyright", ""
+		VALUE "OriginalFilename", "wkSetResCustom.dll"
+		VALUE "ProductName", "wkSetResCustom v0.1.0"
+		VALUE "ProductVersion", "0.1.0.0"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04B0
+}
+}
